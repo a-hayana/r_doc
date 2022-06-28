@@ -1,0 +1,11 @@
+# Introdução {.introducao}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Diam maecenas ultricies mi eget mauris pharetra. Et malesuada fames ac turpis egestas sed tempus. Faucibus in ornare quam viverra orci sagittis eu volutpat. Dictum fusce ut placerat orci nulla. Sit amet mattis vulputate enim nulla aliquet. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. Tellus pellentesque eu tincidunt tortor. Donec ultrices tincidunt arcu non sodales neque sodales. Mus mauris vitae ultricies leo integer malesuada nunc. Massa tempor nec feugiat nisl pretium. Ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae. Sit amet commodo nulla facilisi nullam vehicula. Purus in mollis nunc sed id semper risus in. Elit eget gravida cum sociis.
+
+```{r, out.width="100%", fig.align = "center"}
+iris |> 
+  plot()
+```
+
+
+Elementum facilisis leo vel fringilla est ullamcorper. Nibh venenatis cras sed felis eget. Nam at lectus urna duis convallis convallis tellus. Ullamcorper morbi tincidunt ornare massa eget egestas purus viverra accumsan. Id eu nisl nunc mi ipsum.

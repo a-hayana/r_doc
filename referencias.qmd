@@ -1,0 +1,5 @@
+# Referências {.referencias}
+
+::: {#refs}
+[@quarto]
+:::

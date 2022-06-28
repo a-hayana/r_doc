@@ -1,0 +1,44 @@
+project:
+  type: book
+
+book:
+  title: "Teste - Quarto book"
+  author: "Ariane Hayana"
+  lang: pt
+  sidebar:
+    style: docked
+    background: light
+  search: true
+  page-footer: 
+    left: "Elaborado por: Ariane Hayana" 
+    right: 
+      - icon: github
+        href: https://github.com/a-hayana
+      - icon: linkedin
+        href: https://www.linkedin.com/in/arianehayana/
+  page-navigation: true
+  repo-url: https://github.com/a-hayana/
+  repo-actions: [source]
+  downloads: [epub]
+  sharing: [twitter, facebook]
+  date: "2022/06/28"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - resumo.qmd
+    - referencias.qmd
+
+comments:
+  hypothesis: true
+  
+bibliography: references.bib
+
+format:
+  html:
+    theme: united
+    cover-image: cover.png
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
