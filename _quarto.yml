@@ -35,7 +35,7 @@ bibliography: references.bib
 
 format:
   html:
-    theme: united
+    theme: [united,theme.scss]
     cover-image: cover.png
   pdf:
     documentclass: scrreprt
